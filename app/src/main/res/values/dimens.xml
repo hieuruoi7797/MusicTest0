@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ImageButton_margin">15dp</dimen>
+    <dimen name="Margin">5dp</dimen>
+    <dimen name="SongName_textSize">20sp</dimen>
+</resources>

@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Music</string>
+    <string name="song_name1">Mùa mưa ngâu nằm cạnh</string>
+    <string name="song_name2">Về với em đi</string>
+    <string name="song_name3">Một nhà</string>
+    <string name="artist_1">Vũ</string>
+    <string name="artist_2">Tiên Tiên</string>
+    <string name="artist_3">Da LAB</string>
 </resources>
